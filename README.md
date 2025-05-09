@@ -81,7 +81,7 @@ The notebook includes several cells that build upon the core pipeline, demonstra
 
 The project is structured as a Google Colaboratory notebook (`finalsignal.py`). You can access the notebook here [Colab Link](https://colab.research.google.com/drive/1NSjc0a9n0_O78aM25dZ0zMVZpeO8GHeV?usp=sharing).
 
-1.  **Open in Colab:** Upload and open `finalsignal.py` in Google Colab.
+1.  **Open in Colab:** Open the colab link mentioned above in Google Colab.
 2.  **Run Setup Cells:**
     - Execute the initial cells to download KITTI raw data (`2011_10_03_drive_0047_sync.zip` and `2011_10_03_calib.zip`) and extract it.
     - Run cells for library imports and `wget` for `kitti_utils.py`.
